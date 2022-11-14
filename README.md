@@ -1,6 +1,6 @@
 
 ## Favourite Programming Lenguage Poll
-[Test the application here]()
+[Test the application here](https://holiv.github.io/favourite_programming_lenguage_poll/)
 
 ### Create a method called 'registerNewAnswer' on the 'poll' object. The method does 2 things:
 
@@ -28,3 +28,8 @@
 6. `.bind() method`
 7. `short circuiting`
 8. `DOM manipulation`
+
+#### This repository is in my #100-Days-Of-Code Challenge log
+[100-Days-Of-Code log](https://github.com/Holiv/100DaysOfCode/blob/main/log.md)
+
+Complete information about other functions methods and advanced topics [here](https://nostalgic-judge-413.notion.site/The-Complete-JavaScript-Course-8c76c6a65eee4faeb8fdcd0f30bdc3a4) (Notion)
